@@ -1,16 +1,20 @@
-# lets_meet
+Let’s Meet‑Flutter‑APK
+A Flutter-based mobile meeting application. This repository provides the Flutter source code and includes the built APK for Android devices.
 
-A new Flutter project.
+🚀 Features
+Create and join meetings with codes
 
-## Getting Started
+Integrated audio/video conferencing
 
-This project is a starting point for a Flutter application.
+Chat support during meetings
 
-A few resources to get you started if this is your first Flutter project:
+History tracking of recent/joined meetings
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔧 Prerequisites
+Flutter SDK installed (compatible version, e.g. Flutter 3.x or higher)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Android SDK & Java/JDK
+
+Physical Android device or emulator (running Android 6.0+)
+
+(Optional) adb in PATH for device deployment
