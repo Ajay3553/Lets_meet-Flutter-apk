@@ -1,5 +1,5 @@
 Let’s Meet‑Flutter‑APK
-A Flutter-based mobile meeting application. This repository provides the Flutter source code and includes the built APK for Android devices.
+A Flutter-based mobile meeting application. This repository provides the Flutter source code
 
 🚀 Features
 Create and join meetings with codes
