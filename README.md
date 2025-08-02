@@ -3,7 +3,7 @@ A Flutter-based mobile meeting application. This repository provides the Flutter
 
 🚀 Features
 
-Create and join meetings with codes
+Create and join meetings in one click
 
 Integrated audio/video conferencing
 
